@@ -1,0 +1,23 @@
+{
+  "name": "locustjs-updater",
+  "version": "1.0.0",
+  "description": "An updater tool to update locustjs libraries",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironcodev/locustjs-updater.git"
+  },
+  "keywords": [],
+  "author": "Iron Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironcodev/locustjs-updater/issues"
+  },
+  "homepage": "https://github.com/ironcodev/locustjs-updater#readme",
+  "dependencies": {
+    "@babel/cli": "^7.8.4"
+  }
+}
